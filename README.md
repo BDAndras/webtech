@@ -1,2 +1,3 @@
 # webtech
-gyakorlási felület
+Beyer-Dóczy András
+
